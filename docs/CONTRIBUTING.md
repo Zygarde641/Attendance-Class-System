@@ -7,8 +7,8 @@ Thank you for considering contributing to the Attendance & Class Management Syst
 1. Fork the repository
 2. Clone your fork
    ```bash
-   git clone https://github.com/Zygarde641/attendance-class-system.git
-   cd attendance-class-system
+   git clone https://github.com/Zygarde641/Attendance-Class-System.git
+   cd Attendance-Class-System
    ```
 3. Create a branch
    ```bash

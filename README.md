@@ -75,8 +75,8 @@ A full-featured educational management platform with three user roles (Teacher, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Zygarde641/attendance-class-system.git
-cd attendance-class-system
+git clone https://github.com/Zygarde641/Attendance-Class-System.git
+cd Attendance-Class-System
 
 # Install dependencies
 npm install
@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ Star this repo if you find it helpful!
 
-[Report Bug](https://github.com/Zygarde641/attendance-class-system/issues) • [Request Feature](https://github.com/Zygarde641/attendance-class-system/issues)
+[Report Bug](https://github.com/Zygarde641/Attendance-Class-System/issues) • [Request Feature](https://github.com/Zygarde641/Attendance-Class-System/issues)
 
 ---
 
